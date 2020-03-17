@@ -1,0 +1,13 @@
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\bin\Debug\netcoreapp3.1\ConsoleAws.exe
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\obj\Debug\netcoreapp3.1\ConsoleAws.csprojAssemblyReference.cache
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\obj\Debug\netcoreapp3.1\ConsoleAws.AssemblyInfoInputs.cache
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\obj\Debug\netcoreapp3.1\ConsoleAws.AssemblyInfo.cs
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\bin\Debug\netcoreapp3.1\ConsoleAws.deps.json
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\bin\Debug\netcoreapp3.1\ConsoleAws.runtimeconfig.json
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\bin\Debug\netcoreapp3.1\ConsoleAws.runtimeconfig.dev.json
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\bin\Debug\netcoreapp3.1\ConsoleAws.dll
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\bin\Debug\netcoreapp3.1\ConsoleAws.pdb
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\obj\Debug\netcoreapp3.1\ConsoleAws.csproj.CopyComplete
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\obj\Debug\netcoreapp3.1\ConsoleAws.dll
+C:\Users\andrea.merlin\Desktop\Sviluppo\console-aws\ConsoleAws\ConsoleAws\obj\Debug\netcoreapp3.1\ConsoleAws.pdb
