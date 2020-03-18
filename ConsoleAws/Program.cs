@@ -30,7 +30,7 @@ namespace ConsoleAws
                     rows.Add($"{currentKeyString.ToUpper()}");
                 }
 
-                var temp = result.Where(a => a.Key.Contains(currentKeyString)).Select(a => $"{a.Key.Replace($"{currentKeyString}.", string.Empty)}: {a.Value}").ToList();
+                var temp = result.Where(a => a.Key.Contains(currentKeyString)).Select(a => $"{a.Key.Replace($"{currentKeyString}.", string.Empty).Replace("Instances[0].", string.Empty)}: {a.Value}").ToList();
                 
                 rows.AddRange(temp);
                 oldKeyString = currentKeyString;
